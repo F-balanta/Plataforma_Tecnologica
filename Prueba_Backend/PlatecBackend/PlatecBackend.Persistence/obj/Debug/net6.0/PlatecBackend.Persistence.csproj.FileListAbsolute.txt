@@ -1,0 +1,17 @@
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Persistence.deps.json
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Persistence.runtimeconfig.json
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Persistence.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Persistence.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Domain.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/bin/Debug/net6.0/PlatecBackend.Domain.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.csproj.AssemblyReference.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.AssemblyInfoInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.AssemblyInfo.cs
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.csproj.CoreCompileInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.csproj.CopyComplete
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/refint/PlatecBackend.Persistence.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/PlatecBackend.Persistence.genruntimeconfig.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Persistence/obj/Debug/net6.0/ref/PlatecBackend.Persistence.dll

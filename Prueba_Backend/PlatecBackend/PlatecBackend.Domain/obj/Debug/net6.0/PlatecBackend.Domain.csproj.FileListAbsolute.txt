@@ -1,0 +1,12 @@
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/bin/Debug/net6.0/PlatecBackend.Domain.deps.json
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/bin/Debug/net6.0/PlatecBackend.Domain.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/bin/Debug/net6.0/PlatecBackend.Domain.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.csproj.AssemblyReference.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.AssemblyInfoInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.AssemblyInfo.cs
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.csproj.CoreCompileInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/refint/PlatecBackend.Domain.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/PlatecBackend.Domain.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Domain/obj/Debug/net6.0/ref/PlatecBackend.Domain.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PlatecBackend.Domain/1.0.0": {
+        "runtime": {
+          "PlatecBackend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlatecBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

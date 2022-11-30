@@ -1,0 +1,17 @@
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Application.deps.json
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Application.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Application.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Domain.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Persistence.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Domain.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/bin/Debug/net6.0/PlatecBackend.Persistence.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.csproj.AssemblyReference.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.AssemblyInfoInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.AssemblyInfo.cs
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.csproj.CoreCompileInputs.cache
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.csproj.CopyComplete
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/refint/PlatecBackend.Application.dll
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/PlatecBackend.Application.pdb
+/home/jdbalantar/Escritorio/Programacion/ProyectosPersonales/PlatecBackend/PlatecBackend.Application/obj/Debug/net6.0/ref/PlatecBackend.Application.dll
