@@ -1,0 +1,28 @@
+.tittle-header{
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 30px;
+  padding: 30px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  padding: 20px;
+}
+td{
+  padding: 15px;
+}
+td:hover{
+  background-color: beige;
+}
+th{
+  font-size: 20px;
+  padding: 20px;
+}
+select{
+  margin:0;
+  width: 70px;
+  height: 40px;
+}
+

@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h1 class="tittle-header"> List of Genres</h1>
+    <mat-card>
+      <table>
+        <tr>
+          <th>Id</th>
+          <th>Name</th>
+          <th>Disambiguation</th>
+        </tr>
+        <tr *ngFor="let Items of dataTable.genres | paginate:{
+        itemsPerPage: tableSize,
+        currentPage: page,
+        totalItems: count
+        }; let i = index">
+          <td>{{Items.id}}</td>
+          <td>{{Items.name}}</td>
+          <td>{{Items.disambiguation}}</td>
+        </tr>
+      </table>
+      <div class="d-flex">
+        <pagination-controls
+          previousLabel="Prev"
+          nextLabel="Next"
+          (pageChange)="onTableDataChange($event)">
+        </pagination-controls>
+        <select class="form-select" (change)="onDataTableSizeChange($event)">
+
+          <option *ngFor="let sizes of tableSizes">{{sizes}}</option>
+        </select>
+      </div>
+      </mat-card>
+
+
+    </div>
+  </div>
+
+</div>
+
